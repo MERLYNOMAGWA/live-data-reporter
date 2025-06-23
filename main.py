@@ -1,6 +1,7 @@
 from astronauts import get_astronauts
 from iss_tracker import get_iss_location
 from news import get_news
+import time
 
 def main():
    while True:
@@ -14,10 +15,13 @@ def main():
          choice = input("Choose an option: ")
          if choice == "1":
             get_astronauts()
+            time.sleep(4)
          elif choice == "2":
             get_iss_location()
+            time.sleep(4)
          elif choice == "3":
             get_news()
+            time.sleep(4)
          elif choice == "4":
             print("Goodbye! 👋")
             break
