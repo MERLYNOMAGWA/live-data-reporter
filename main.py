@@ -2,6 +2,8 @@ from astronauts import get_astronauts
 from iss_tracker import get_iss_location
 from news import get_news
 import time
+from iss_tracker import get_iss_location
+
 
 def main():
    while True:
