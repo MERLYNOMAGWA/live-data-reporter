@@ -1,0 +1,7 @@
+2025-06-23 20:09:08.087088 - SUCCESS: Astronaut data fetched successfully
+2025-06-23 20:10:12.513089 - FAILURE: Failed to fetch ISS location: unhashable type: 'dict'
+2025-06-23 20:11:18.757312 - SUCCESS: News fetched successfully
+2025-06-23 20:12:11.503231 - SUCCESS: Astronaut data fetched successfully
+2025-06-23 20:12:21.627564 - FAILURE: Failed to fetch ISS location: unhashable type: 'dict'
+2025-06-23 20:12:29.005302 - SUCCESS: News fetched successfully
+2025-06-23 20:33:14.455221 - SUCCESS: ISS position fetched

@@ -1,0 +1,73 @@
+
+
+Astronauts in space as of 2025-06-23 20:09:08.068896:
+- Oleg Kononenko on ISS
+- Nikolai Chub on ISS
+- Tracy Caldwell Dyson on ISS
+- Matthew Dominick on ISS
+- Michael Barratt on ISS
+- Jeanette Epps on ISS
+- Alexander Grebenkin on ISS
+- Butch Wilmore on ISS
+- Sunita Williams on ISS
+- Li Guangsu on Tiangong
+- Li Cong on Tiangong
+- Ye Guangfu on Tiangong
+
+
+Astronauts in space as of 2025-06-23 20:12:11.501336:
+- Oleg Kononenko on ISS
+- Nikolai Chub on ISS
+- Tracy Caldwell Dyson on ISS
+- Matthew Dominick on ISS
+- Michael Barratt on ISS
+- Jeanette Epps on ISS
+- Alexander Grebenkin on ISS
+- Butch Wilmore on ISS
+- Sunita Williams on ISS
+- Li Guangsu on Tiangong
+- Li Cong on Tiangong
+- Ye Guangfu on Tiangong
+
+
+ISS Location as of 2025-06-23 20:33:14.447284:
+Latitude: 42.2600, Longitude: -126.8423
+
+
+ISS Location as of 2025-06-23 20:43:13.722776:
+Latitude: 15.7837, Longitude: -96.2891
+
+
+ISS Location as of 2025-06-23 20:53:39.020327:
+Latitude: -15.6259, Longitude: -73.2001
+
+
+ISS Location as of 2025-06-23 21:10:13.268713:
+Latitude: -51.2631, Longitude: -9.3384
+
+
+ISS Location as of 2025-06-23 21:19:19.590321:
+Latitude: -42.9855, Longitude: 39.8925
+
+
+ISS Location as of 2025-06-23 22:45:15.071143:
+Latitude: -51.5302, Longitude: -19.7973
+
+
+Astronauts in space as of 2025-06-23 22:46:00.439079:
+- Oleg Kononenko on ISS
+- Nikolai Chub on ISS
+- Tracy Caldwell Dyson on ISS
+- Matthew Dominick on ISS
+- Michael Barratt on ISS
+- Jeanette Epps on ISS
+- Alexander Grebenkin on ISS
+- Butch Wilmore on ISS
+- Sunita Williams on ISS
+- Li Guangsu on Tiangong
+- Li Cong on Tiangong
+- Ye Guangfu on Tiangong
+
+
+ISS Location as of 2025-06-23 22:46:08.465864:
+Latitude: -51.1889, Longitude: -14.5614
