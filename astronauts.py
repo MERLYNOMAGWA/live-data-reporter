@@ -5,7 +5,7 @@ def get_astronauts():
    try:
       response = requests.get("http://api.open-notify.org/astros.json") 
       response.raise_for_status() 
-      data = respose.json()
+      data = response.json()
       
       astronauts = data.get ("people", []) 
       with open("data/iss_data.txt", "a") as file:
@@ -27,5 +27,5 @@ def get_astronauts():
 def log_action(message, success):
    with open("logs.txt", "a") as log_file:
       status = "SUCCESS" if success else "FAILURE"    
-      log_write.write(f"{datetime.now()} - {status}: {message}\n")
-   
+      log_file.write(f"{datetime.now()} - {status}: {message}\n")
+      
